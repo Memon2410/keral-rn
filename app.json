@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Keralty",
+    "description": "React Native ",
+    "slug": "keralty",
+    "privacy": "unlisted",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "version": "1.3.0",
+    "orientation": "landscape",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#6C24AA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
